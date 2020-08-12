@@ -1,0 +1,3 @@
+Z wykresów dla danych pesymistycznych wynika, że Insort jest w tym wypadku szybszy od QuickSorta, mimo iż mają identyczną złożoność czasową O(n^2).
+
+Z wykresów dla danych losowych wynika, że QuickSort ze złożonością czasową Θ(n log(n)) jest znacznie szybszy od Insorta, który dla losowych danych również ma złożoność czasową Θ(n^2).
